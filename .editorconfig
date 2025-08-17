@@ -27,6 +27,10 @@ indent_size = 4
 indent_style = space
 indent_size = 4
 
+[*.kt]
+indent_style = space
+indent_size = 4
+
 [*.yml,*.yaml]
 indent_style = space
 indent_size = 2
