@@ -4,7 +4,10 @@ A repository to learn Kotlin
 
 ## Core
 
-- **Core language quickstart**: Kotlin syntax vs Java, idioms, Kotlin REPL.
+- **Core language quickstart**: Kotlin syntax vs Java, idioms.
+- **Variables**: variables in Kotlin
+- **Flow control**: Flow control in Kotlin
+- **Iteration**: Iteration in Kotlin
 - **Types and null-safety**: nullable vs non-null, platform types, `lateinit`, `lazy`.
 - **Collections and sequences**: immutable/mutable collections, sequence pipelines, common stdlib operations.
 
@@ -13,7 +16,7 @@ A repository to learn Kotlin
 - **Functions and lambdas**: higher-order functions, SAM interop, inline functions, extension functions.
 - **OOP the Kotlin way**: data classes, sealed classes/interfaces, `object`/singletons, companion objects, delegation.
 - **Error handling**: `Result`, sealed hierarchies, either-style patterns vs exceptions.
-- **Third party libraries**: Arrow
+- **Third party libraries**: ArrowKt
 
 ## Testing
 
