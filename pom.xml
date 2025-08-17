@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>info.jab.learning</groupId>
-  <artifactId>101-learning</artifactId>
+  <artifactId>101-kotlin</artifactId>
   <version>0.1.0</version>
 
   <properties>
