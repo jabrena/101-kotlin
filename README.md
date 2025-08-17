@@ -7,7 +7,6 @@ A repository to learn Kotlin
 - **Core language quickstart**: Kotlin syntax vs Java, idioms, Kotlin REPL.
 - **Types and null-safety**: nullable vs non-null, platform types, `lateinit`, `lazy`.
 - **Collections and sequences**: immutable/mutable collections, sequence pipelines, common stdlib operations.
-- **Serialization and I/O**: kotlinx.serialization, Jackson interop, Kotlinx-datetime.
 
 ## Functional programming
 
@@ -19,6 +18,10 @@ A repository to learn Kotlin
 ## Testing
 
 - **Testing ecosystem**: JUnit 5 with Kotlin, Kotest, MockK, property testing.
+
+## I/O
+
+- **Serialization and I/O**: kotlinx.serialization, Jackson interop, Kotlinx-datetime.
 
 ## Async
 
