@@ -10,7 +10,7 @@
 
   <properties>
     <kotlin.version>1.9.23</kotlin.version>
-    <dokka.version>1.9.20</dokka.version>
+    <dokka.version>2.0.0</dokka.version>
     <java.version>21</java.version>
     <maven.version>3.9.10</maven.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
